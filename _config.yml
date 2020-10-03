@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/css/bio-photo-dlwlrma.jpeg"
   bio              : "꿀잠 연구소"
   location         : "깊은 꿈속"
-  email            : "Dream@Zzz.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
