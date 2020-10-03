@@ -24,7 +24,7 @@ description              : "A Research Institute Director"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/css/bio-photo-dlwlrma.jpg"
+teaser                   : "/assets/css/bio-photo-dlwlrma.jpeg"
 logo                     : "/assets/css/logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/css/bio-photo-dlwlrma.jpg"
+og_image                 : "/assets/css/bio-photo-dlwlrma.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Seunghwan Baek"
-  avatar           : "/assets/images/bio-photo-dlwlrma.jpg"
+  avatar           : "/assets/css/bio-photo-dlwlrma.jpeg"
   bio              : "꿀잠 연구소"
   location         : "깊은 꿈속"
   email            : "Dream@Zzz.com"
